@@ -1,2 +1,2 @@
 # python-projects
-Projects developed via Python 
+Projects I've worked on throughout college and beyond
